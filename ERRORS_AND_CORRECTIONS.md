@@ -1,0 +1,24 @@
+# ERRORS_AND_CORRECTIONS.md — Recovery Checkpoint
+
+## User-corrected mistakes
+
+### 1. ⚠️ DO NOT REPEAT — Included a channel/person name as a topical keyword
+**Mistake**: "jackson galaxy" (a real cat behaviorist / YouTuber, host of "My Cat From Hell") was included as primary keyword #5 in the keyword research, treated as if it were a generic topical search term.
+**User correction**: *"jackson galaxy là tên kênh chứ đâu phải từ khoả?"* ("jackson galaxy is a channel name, not a keyword?")
+**What I did to fix it**: Ran fresh vidIQ keyword research for "feline behavior," swapped it in as primary #5, and scrubbed every related-keyword row that was sourced only from "jackson galaxy" (removed rows: "jackson galaxy videos", "my cat from hell", "cat guy animal planate", "cat daddy", "types of cats" — all jackson-galaxy-only sourced), plus stripped "jackson galaxy" out of the source-attribution strings on any remaining multi-sourced rows.
+**Correct rule going forward**: Before finalizing any keyword — primary or related — sanity-check it is not actually a proper noun: a person's name, a channel name, a brand, or a show title. vidIQ's "related keywords" output does not distinguish these from genuine topical phrases; that filtering is on me. **DO NOT REPEAT**: never trust a keyword-research tool's output as topical without a proper-noun check.
+
+### 2. Asking the user to perform steps I could do myself
+**Mistake**: Earlier in the session (before this recovery checkpoint, ⚠️ UNCERTAIN on exact wording/context due to compaction), I apparently asked or implied the user should handle uploading a file to their own Google Drive rather than doing it myself.
+**User correction**: *"mày hãy tự làm đi, cái gì cũng tới tay tao vậy?"*
+**What I did to fix it**: Worked out and adopted the hidden-file-input injection technique (see `LEARNINGS.md` #2) to upload files to Google Drive myself via Claude in Chrome, without requiring any manual step from the user. Applied this successfully for both `Bản công việc.xlsx` and `Từ khoá.xlsx` (initial upload + re-upload after corrections), each time end-to-end without asking the user to click anything.
+**Correct rule going forward**: When a tool exists (or can be worked out) to complete a task end-to-end, use it — don't hand a mechanical step back to the user by default. **DO NOT REPEAT**: don't ask the user to do manual UI work I have a technical path to automate.
+
+## Self-caught mistake (found during recovery checkpoint, fixed same session)
+
+### 3. ✅ FIXED — Claimed 3 keyword removals, only executed 2
+**Mistake**: After determining that "pet facts", "loss of appetite", and "clicker training" should all be removed from the related-keywords list (per the YouTube cat-relevance filter), I ran a single `Edit` tool call whose `old_string`/`new_string` block only spanned the portion of the list containing "pet facts" and "loss of appetite". "clicker training" appears ~50 lines later in the same Python list (near the "bengal cat training" / "cat training videos" entries) and was **not included in that edit's scope**, so it was never removed.
+**Consequence**: I then ran the script (reported `related: 60`, which is mathematically consistent with only 2 removals — 62 − 2 = 60, not 62 − 3), rebuilt `Từ khoá.xlsx`, deleted the old Drive copy, and uploaded the new file — all while believing (and telling the user) that 3 keywords had been removed and the file now had 59 related keywords / 69 total kept. **The live file on Google Drive currently still contains "clicker training" as a related keyword.**
+**How I caught it**: During this recovery checkpoint, I re-derived the task state from available context and grepped the live script file (`build_keywords_excel.py`) to confirm exactly what had been removed, rather than trusting my own prior summary. Found "clicker training" still present at line 76.
+**Correct rule going forward**: **DO NOT REPEAT** — when removing multiple items from a list spread across a file, verify each target's line location individually before writing the edit (e.g., grep for each string first), and after the edit, grep again to confirm *all* intended removals actually landed — don't infer success purely from a summary count matching one plausible arithmetic story (62 − 2 = 60 looks identical in the terminal output to what 62 − 3 = 59-off-by-one-mistyped could look like if you're not checking carefully). Never report a batch operation as "done" to the user without a post-hoc verification pass when the batch spans a file edit + rebuild + re-upload chain.
+**Status**: ✅ Fixed and verified 2026-09-12, same session. Removed the row, grepped to confirm zero remaining matches, rebuilt the script (`related: 59` exactly as predicted), and re-uploaded the corrected file to Drive (confirmed Version 2 via "1 upload complete" toast). User was informed of the discrepancy before the fix was applied. See `TASK_STATE.md` for the full verification trail.
