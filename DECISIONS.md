@@ -63,3 +63,11 @@ Decision: from this point forward in the project, maintain all 5 memory files (`
 - All wiki/production output must be in Vietnamese, with inline explanations for any unavoidable foreign term.
 - Every content asset must pass the EEAT gate (must be traceable to the wiki owner's real experience/expertise — competitor data may inform strategy but is explicitly disclaimed as non-EEAT) and the YMYL gate (no unfounded promises, no harm).
 - `raw/` is immutable (read-only, never edited by Claude); `wiki/` is Claude-owned and continuously updated; `CLAUDE.md` itself co-evolves with the user.
+
+### 10. Kênh TikTok affiliate gia dụng "Soi hàng gia dụng" — 5 nguyên tắc chọn hàng (2026-10-25)
+Chủ nhân chốt: (1) món quốc dân + "xanh" = **mua đi mua lại, ít KOC lớn**; (2) dùng tiện lợi; (3) hoa hồng **≥ 10.000đ/lượt
+bán**; (4) em làm video được không cần cầm hàng (không lộ mặt, giọng máy); (5) **3 video/ngày, 90/tháng, ~1p30**.
+Hệ quả: ưu tiên **hàng tiêu hao cỡ lớn/combo** (nước giặt túi 5–6 kg, giấy thùng, nước rửa chén can...) để vừa lặp đơn vừa
+đạt ngưỡng hoa hồng; giữ 3 món bền có bằng chứng viral mạnh (nồi điện mini, ấm siêu tốc, chảo) cho hoa hồng lớn/đơn.
+Giọng máy qua vidIQ voiceover (edge-tts bị chặn mạng). Tên kênh "Soi Hàng Gia Dụng", câu cửa miệng "Mua hớ một lần rồi,
+lần này soi trước." Tài liệu: `production/kenh-aff-tiktok-gia-dung/00..03`.

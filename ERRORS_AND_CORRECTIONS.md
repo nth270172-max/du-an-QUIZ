@@ -22,3 +22,11 @@
 **How I caught it**: During this recovery checkpoint, I re-derived the task state from available context and grepped the live script file (`build_keywords_excel.py`) to confirm exactly what had been removed, rather than trusting my own prior summary. Found "clicker training" still present at line 76.
 **Correct rule going forward**: **DO NOT REPEAT** — when removing multiple items from a list spread across a file, verify each target's line location individually before writing the edit (e.g., grep for each string first), and after the edit, grep again to confirm *all* intended removals actually landed — don't infer success purely from a summary count matching one plausible arithmetic story (62 − 2 = 60 looks identical in the terminal output to what 62 − 3 = 59-off-by-one-mistyped could look like if you're not checking carefully). Never report a batch operation as "done" to the user without a post-hoc verification pass when the batch spans a file edit + rebuild + re-upload chain.
 **Status**: ✅ Fixed and verified 2026-09-12, same session. Removed the row, grepped to confirm zero remaining matches, rebuilt the script (`related: 59` exactly as predicted), and re-uploaded the corrected file to Drive (confirmed Version 2 via "1 upload complete" toast). User was informed of the discrepancy before the fix was applied. See `TASK_STATE.md` for the full verification trail.
+
+### 4. ⚠️ DO NOT REPEAT — Hiểu sai thuật ngữ riêng của chủ nhân ("sản phẩm xanh") rồi lọc theo nghĩa của mình
+Ngày 2026-10-25, dự án kênh TikTok affiliate gia dụng. Chủ nhân nêu nguyên tắc chọn hàng "sản phẩm xanh". Em tự hiểu là
+"thân thiện môi trường / bền / ít rác" và **loại bỏ toàn bộ hàng dùng một lần** (giấy, nước giặt, túi rác). Chủ nhân sửa:
+**"xanh" = món khách mua đi mua lại nhiều lần, thị trường ít KOC lớn**. Nghĩa đúng ngược hẳn với cách em lọc.
+Luật rút ra: khi chủ nhân dùng một từ có vẻ quen (xanh, sạch, quốc dân...) làm **tiêu chí lọc**, phải **hỏi lại định nghĩa
+một câu trước khi lọc**, hoặc ghi rõ "em hiểu X là ... đúng không" ngay trong bản đầu. Đã sửa lại file
+`production/kenh-aff-tiktok-gia-dung/03-...md` và quét lại thị trường hàng tiêu hao cùng ngày.
