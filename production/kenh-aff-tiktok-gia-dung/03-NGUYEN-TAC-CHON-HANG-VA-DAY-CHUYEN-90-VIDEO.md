@@ -9,6 +9,9 @@ tags: [tiktok-affiliate, gia-dung, nguyen-tac, hang-tieu-hao, day-chuyen-san-xua
 
 # 5 nguyên tắc chọn hàng (chủ nhân chốt 25/10/2026) → danh sách chốt → dây chuyền 90 video
 
+> **Cập nhật 25/10/2026 (sau)**: chủ nhân quyết định **chỉ làm 1 món** cho đến khi ra đơn. Xem [[04-MOT-MON-DUY-NHAT]].
+> Danh sách 12 món dưới đây giữ làm **kho dự bị**, không chạy song song.
+
 > **Sửa lỗi 25/10/2026**: bản đầu em hiểu "sản phẩm xanh" là thân thiện môi trường và đã loại hàng dùng một lần.
 > **Sai.** Theo anh, **"xanh" = món khách mua đi mua lại nhiều lần, và thị trường ít KOC lớn để mình dễ cạnh tranh.**
 > Theo nghĩa đúng này, hàng tiêu hao (nước giặt, giấy, túi rác, nước rửa chén...) là **nhóm trúng tiêu chí nhất**.

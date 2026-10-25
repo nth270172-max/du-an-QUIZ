@@ -71,3 +71,9 @@ Hệ quả: ưu tiên **hàng tiêu hao cỡ lớn/combo** (nước giặt túi 
 đạt ngưỡng hoa hồng; giữ 3 món bền có bằng chứng viral mạnh (nồi điện mini, ấm siêu tốc, chảo) cho hoa hồng lớn/đơn.
 Giọng máy qua vidIQ voiceover (edge-tts bị chặn mạng). Tên kênh "Soi Hàng Gia Dụng", câu cửa miệng "Mua hớ một lần rồi,
 lần này soi trước." Tài liệu: `production/kenh-aff-tiktok-gia-dung/00..03`.
+
+### 11. Chỉ làm MỘT món cho đến khi ra đơn (2026-10-25, sau quyết định 10)
+Chủ nhân: không chạy 12 món song song; **một món duy nhất** đến khi bán được rồi mới tính tiếp. Em đề xuất **nước giặt túi
+5–6 kg** (mua lại hàng tháng, kênh 4,3K vẫn 1,3M lượt xem, chưa thấy KOC ≥ 1 triệu), dự phòng **nồi điện đa năng mini** nếu
+hoa hồng nước giặt không đạt 10k/đơn. 90 video/tháng cho 1 món = 10 góc × 3 mở đầu × 3 khuôn hình. Mốc "tính tiếp": đơn
+đầu tiên → giữ món; 10 đơn/tuần × 2 tuần → mở món 2. Tài liệu: `production/kenh-aff-tiktok-gia-dung/04-MOT-MON-DUY-NHAT.md`.
