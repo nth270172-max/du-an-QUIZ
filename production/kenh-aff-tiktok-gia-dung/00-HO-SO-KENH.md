@@ -37,10 +37,10 @@ Khác với 90% kênh affiliate gia dụng đang làm kiểu "wow món này hay 
 
 ## 4. Nhân vật kể chuyện (persona)
 
-- **Tên gọi gợi ý**: "Người mua hớ" / "Soi hàng cho nhà 5 người" / "Lười mà kỹ" **[ANH DUYỆT — chọn 1 hoặc đề xuất]**
+- **Tên gọi**: "Soi Hàng Gia Dụng" (anh duyệt mặc định 25/10/2026; đổi được bất cứ lúc nào)
 - **Ngôi kể**: "mình", gọi người xem là "bạn". Không "các bạn ơi", không hô hào.
 - **Tính cách**: lười nhưng kỹ, hơi cà khịa, luôn kết bằng một câu khuyên thật lòng.
-- **Câu cửa miệng (chọn 1 để lặp đến khi quen tai)** **[ANH DUYỆT]**:
+- **Câu cửa miệng (đã chốt 25/10/2026, dòng đầu; hai dòng sau để dự phòng)**:
   - "Mua hớ một lần rồi, lần này soi trước."
   - "Lười thì phải chọn kỹ."
   - "Đọc đánh giá 1 sao trước, đọc 5 sao sau."
@@ -54,7 +54,7 @@ Khác với 90% kênh affiliate gia dụng đang làm kiểu "wow món này hay 
 | Ảnh đại diện | Thẻ chữ nền trắng, chữ đen đậm "SOI" hoặc biểu tượng kính lúp + nồi. Em làm bằng công cụ `tools/anh-facebook/` khi anh chốt tên |
 | Dòng mô tả | "Mua hớ nhiều rồi nên soi kỹ giúp bạn. Nhà 5 người, 3 thế hệ. Đọc đánh giá 1 sao trước. 🧐" |
 | Bìa video | Nền trắng, 3–5 chữ, một con số thật (ví dụ "1.247 đánh giá 1 sao") |
-| Giọng đọc | Giọng nam/nữ Việt tự nhiên (edge-tts hoặc giọng anh tự thu không lộ mặt). **[ANH DUYỆT: anh tự đọc hay dùng giọng máy?]** |
+| Giọng đọc | **Giọng máy** (quyết định 25/10/2026). Em dùng edge-tts giọng Việt; thử 2 giọng nam/nữ ở video đầu rồi giữ 1 |
 
 ## 6. Bốn trụ nội dung (cho một kênh mới cần đi nhanh)
 
@@ -77,7 +77,7 @@ Khác với 90% kênh affiliate gia dụng đang làm kiểu "wow món này hay 
 
 - [ ] Chuyển tài khoản sang **Tài khoản doanh nghiệp** (hoặc giữ cá nhân) rồi đăng ký **TikTok Shop Affiliate** (Trung tâm Affiliate). Cần CMND/CCCD + số điện thoại + tài khoản ngân hàng.
 - [ ] Gửi em ảnh chụp màn hình **điều kiện xin hàng mẫu** hiện tại (để em lên lịch mốc).
-- [ ] Chốt 3 mục **[ANH DUYỆT]** ở trên.
-- [ ] Gửi em **3–5 link video/sản phẩm tham chiếu** anh đã thấy trên mạng (anh nói đã có) để em soi mẫu nào đang ăn.
+- [x] Chốt 3 mục duyệt (25/10/2026).
+- [x] Em tự khảo sát sản phẩm: xem [[02-KHAO-SAT-SAN-PHAM-THAT]] (25/10/2026).
 
 Khi 4 việc này xong, em viết 30 kịch bản đầu (Bước 3).
