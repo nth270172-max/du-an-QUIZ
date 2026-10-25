@@ -14,6 +14,8 @@ tags: [tiktok-affiliate, gia-dung, mot-mon, nuoc-giat, 90-video]
 
 ## 1. Món em đề xuất: **Nước giặt túi lớn 5–6 kg**
 
+> **Cập nhật 25/10/2026**: chủ nhân chốt nước giặt. Nhãn hiệu đã chọn: **Avatar 6in1 túi 5,3 kg, bán theo combo 2 túi** — xem [[05-CHON-NHAN-HIEU-NUOC-GIAT]].
+
 Chấm theo 5 nguyên tắc của anh, dựa trên dữ liệu đã quét (không phải cảm tính):
 
 | Nguyên tắc | Nước giặt túi 5–6 kg | Bằng chứng |

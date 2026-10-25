@@ -77,3 +77,9 @@ Chủ nhân: không chạy 12 món song song; **một món duy nhất** đến k
 5–6 kg** (mua lại hàng tháng, kênh 4,3K vẫn 1,3M lượt xem, chưa thấy KOC ≥ 1 triệu), dự phòng **nồi điện đa năng mini** nếu
 hoa hồng nước giặt không đạt 10k/đơn. 90 video/tháng cho 1 món = 10 góc × 3 mở đầu × 3 khuôn hình. Mốc "tính tiếp": đơn
 đầu tiên → giữ món; 10 đơn/tuần × 2 tuần → mở món 2. Tài liệu: `production/kenh-aff-tiktok-gia-dung/04-MOT-MON-DUY-NHAT.md`.
+
+### 12. Nhãn nước giặt: Avatar 6in1 túi 5,3 kg, gắn giỏ combo 2 túi 10,6 kg (2026-10-25)
+So 4 nhãn trong video viral (Avatar, SeeSaw, Joki, OMO). Chọn Avatar vì: công ty chịu trách nhiệm tra được (Hòa Phúc), bán
+3 sàn (so giá/kg được), bản 2 kg có 783 đánh giá 4,7★, kênh 24K–99K lên 2,2–4,3M lượt xem, combo 196k → HH chỉ cần ≥ 5,1%
+là đạt ngưỡng 10k/đơn. Loại SeeSaw (không tra được nhà sản xuất, KOC rao lời hứa sức khỏe → YMYL), Joki (túi 2,2 L, HH/đơn
+thấp), OMO (HH thấp, đấu với kênh hãng). Kênh KHÔNG lặp lại lời rao "0 đồng / lưu hương 88 giờ / không hại da / đồ em bé".
