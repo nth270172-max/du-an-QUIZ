@@ -85,3 +85,23 @@ Send me your channel link (or the style you like) and I'll send you a short samp
 ## Ảnh và video gig
 - Video gig: **mẫu quiz động vật 60 giây** (xem `02-KICH-BAN-MAU-QUIZ-60S.md`).
 - 3 ảnh 1280×769: (1) khung câu hỏi có timer; (2) ảnh "5 videos / 10 videos — same template"; (3) ảnh trước/sau thumbnail. Em tạo bằng Pillow khi mẫu dựng xong.
+
+---
+
+## Cấu hình đã chốt trên Fiverr (26/10/2026)
+
+| Mục | Basic | Standard | Premium |
+|---|---|---|---|
+| Tên gói | Starter - 1 quiz video | Batch of 5 videos | Batch of 10 videos |
+| Giao | 1 ngày | 3 ngày | 5 ngày |
+| Giá | 30 $ | 140 $ | 250 $ |
+| Footage khách gửi | 15 phút | 15 phút | 15 phút |
+| Running time | 3 | 15 | 30 |
+| Revisions | 2 | 3 | Unlimited |
+
+Extras: Extra fast (Standard 2 ngày +20 $, Premium 3 ngày +40 $) · Subtitles +10 $ · Thumbnail +15 $ · Source file +20 $ · Additional revision +10 $ · Vertical Shorts +15 $ (+1 ngày) · 4K/Ultra HD export +10 $.
+
+Bài học: tên gói và tên extra **chỉ được chữ, số và , + - &** (không dấu hai chấm, không ký tự lạ). Mô tả gig giới hạn 1.200 ký tự.
+
+Gallery: `mau/quiz-gig-showreel.mp4` (72 s) + `mau/gig4-img-1..3.png`.
+Trạng thái: đã tạo, chờ xác minh danh tính + W-8BEN để Active.
