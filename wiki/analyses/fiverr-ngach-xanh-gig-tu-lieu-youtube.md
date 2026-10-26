@@ -3,6 +3,7 @@ title: Fiverr — tìm ngách xanh cho gig, dùng quy trình sao chép YouTube l
 type: analysis
 created: 2026-10-26
 updated: 2026-10-26
+# cập nhật lần 2 cùng ngày: thêm mục 7 (6 thể loại anh tự dựng được)
 sources: [phan-tich-video-quy-trinh-sao-chep, giao-trinh-ymm-online, cong-thuc-dan-y-kenh-de-trang]
 tags: [fiverr, gig, ngach-xanh, quy-trinh-sao-chep, freelance, youtube-faceless]
 ---
@@ -154,3 +155,31 @@ Dùng chính phương pháp đếm **services available** mà cộng đồng Fiv
 - [Perso AI — dubbing trên Fiverr](https://perso.ai/blog/make-money-on-fiverr-with-perso-ai-dubbing)
 - Gig tham khảo: [kịch bản wildlife BBC-style](https://fiverr.com/agustinbadariot/write-wildlife-documentary-scripts-like-bbc-or-netflix) · [AI documentary video](https://fiverr.com/anahata14/create-ai-documentary-videos) · [AI dubbing documentary](https://fiverr.com/karlvanreenen/dub-your-documentary-using-ai) · [cash cow top 10](https://fiverr.com/tehseen_khan/make-top-10-ranking-videos)
 - Phương pháp đếm cạnh tranh: [websitebuilderinsider](https://www.websitebuilderinsider.com/how-do-i-find-low-competition-keywords-on-fiverr/) · [Fiverr Help — keyword research](https://help.fiverr.com/hc/en-us/articles/6533842204177)
+
+---
+
+## 7. Cập nhật 26/10: sáu thể loại anh tự dựng được video → xếp hạng gig
+
+Anh xác nhận tự làm được video ở 6 thể loại: **người que, động vật, nhạc, quiz, mèo, phóng sự**.
+Vậy gig không còn giới hạn ở kịch bản; bán được **video hoàn chỉnh**. Xếp hạng (vẫn cần đếm
+"services available" theo mục 4 trước khi chốt; tín hiệu dưới đây từ hiểu biết chung về sàn):
+
+| Hạng | Thể loại | Vì sao xanh / đỏ | Dạng gig nên bán | Giá tham khảo |
+|---|---|---|---|---|
+| 1 | **Quiz** (trivia, "đoán quốc kỳ/bài hát/bóng đá", đố vui) | Kênh quiz faceless mua **theo lô** (10–30 video/lượt) vì sản xuất theo mẫu; người bán làm đẹp, đúng nhịp đếm ngược còn ít. Khách quay lại đều → lên Level nhanh | "I will create quiz video for your YouTube channel" bán gói 1 / 5 / 10 video; bán thêm mẫu (template) riêng theo kênh | 15–40 $/video, gói 10 video 150–300 $ |
+| 2 | **Người que** (stick figure / stickman animation) | Ngách con hẹp của animation; người bán whiteboard rất đông nhưng stickman kể chuyện, giải thích, "fight animation" ít hơn hẳn. Khách: kênh giải thích, giáo dục, meme, Shorts | "I will make stick figure animation video for YouTube or Shorts" theo thời lượng 30s / 60s / 2 phút | 30–80 $/phút đầu |
+| 3 | **Động vật** (phóng sự động vật AI, truyện sinh tồn) | Như mục 3 #1: ngách con đủ hẹp, ít người bán chuyên, giá đơn cao | "I will create AI wildlife documentary video for your faceless channel" | 80–250 $/video 8–12 phút |
+| 4 | **Phóng sự** (documentary tổng quát: lịch sử, khoa học, nơi khắc nghiệt) | Cầu lớn nhất nhưng người bán cũng đông nhất; cạnh tranh bằng giá. Hợp làm **gói kịch bản + video** để không đua giá kịch bản thuần | "I will write and produce a documentary-style faceless YouTube video" | 100–300 $ |
+| 5 | **Mèo** | Cầu hẹp (chủ kênh mèo không nhiều người thuê ngoài). Gộp vào gig động vật như một ví dụ mẫu, không mở gig riêng | — | — |
+| 6 | **Nhạc** (lyric video, lofi visualizer, video nhạc nền) | Lyric video là một trong những gig **đỏ nhất** Fiverr (hàng nghìn gig 5–10 $). Chỉ nên làm gig phụ giá rẻ để gom đánh giá nếu cần, không phải mũi nhọn | "I will make lofi/ambient visualizer video 1 hour" (nếu làm) | 10–25 $ |
+
+**Quyết định đề xuất: mở 3 gig đầu tiên theo thứ tự Quiz → Người que → Động vật.**
+Lý do: Quiz cho đơn lặp và lên bậc nhanh; Người que là ngách con ít người làm; Động vật là
+gig giá cao dùng tài sản sẵn có (kịch bản "The Ledge", công thức Bẫy–Thoát–Bẫy mới).
+
+**Áp quy trình sao chép cho từng gig (mục 2):** mỗi thể loại tải phụ đề + chụp màn hình 3–5 video
+đang được đặt làm giống trên Fiverr/YouTube → bóc cấu trúc → tự dựng **1 video mẫu 45–90 giây**
+đăng làm video gig (Fiverr cho 1 video + 3 ảnh mỗi gig). Mẫu phải tự làm 100%.
+
+Bảng theo dõi mục 6 bổ sung từ khóa: `quiz video youtube`, `trivia video`, `stick figure animation`,
+`stickman animation`, `lyric video` (để đối chiếu vùng đỏ).
