@@ -32,7 +32,7 @@ quiz video, trivia video, youtube quiz, guess the animal, faceless youtube
 | Mô tả ngắn (≤100 ký tự) | 1 quiz video, 10 questions, up to 3 min, AI voice, music, countdown timer | 5 quiz videos, 10 questions each, your branding, thumbnails included | 10 quiz videos, 10–15 questions, branding, thumbnails, titles & descriptions |
 | Giao (ngày) | 2 | 5 | 8 |
 | Sửa (revisions) | 2 | 3 | Unlimited |
-| Giá (USD) | **25** | **110** | **200** |
+| Giá (USD) | **30** | **140** | **250** |
 | Nội dung tick | Script & questions · AI voiceover · Background music · Countdown timer · 1080p | + Channel branding (logo, colors) · Thumbnail for each video · Source questions sheet | + 15 questions option · Titles, descriptions, tags · Priority delivery |
 
 *Giá Basic 25 $ là giá "mồi" để lấy 5 đơn đầu; sau 10 đánh giá nâng lên 35–40 $.*
