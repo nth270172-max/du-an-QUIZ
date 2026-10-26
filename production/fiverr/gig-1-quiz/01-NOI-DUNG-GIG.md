@@ -104,4 +104,4 @@ Extras: Extra fast (Standard 2 ngày +20 $, Premium 3 ngày +40 $) · Subtitles 
 Bài học: tên gói và tên extra **chỉ được chữ, số và , + - &** (không dấu hai chấm, không ký tự lạ). Mô tả gig giới hạn 1.200 ký tự.
 
 Gallery: `mau/quiz-gig-showreel.mp4` (72 s) + `mau/gig4-img-1..3.png`.
-Trạng thái: đã tạo, chờ xác minh danh tính + W-8BEN để Active.
+Trạng thái: **ACTIVE từ 26/10/2026** (xác minh danh tính xong, khai không phải người Mỹ nên không cần W-9/W-8BEN). Link gig: (anh dán vào đây).
