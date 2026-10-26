@@ -183,3 +183,15 @@ gig giá cao dùng tài sản sẵn có (kịch bản "The Ledge", công thức 
 
 Bảng theo dõi mục 6 bổ sung từ khóa: `quiz video youtube`, `trivia video`, `stick figure animation`,
 `stickman animation`, `lyric video` (để đối chiếu vùng đỏ).
+
+### 7.1 Dây chuyền sản xuất hiện có (anh xác nhận 26/10)
+
+| Khâu | Công cụ | Ai làm |
+|---|---|---|
+| Kịch bản, prompt ảnh/video từng cảnh, tiêu đề, mô tả | Claude | Claude |
+| Giọng đọc | **ai33** (đọc văn bản thành giọng) | anh bấm, Claude soạn văn bản đã chia đoạn |
+| Ảnh và clip | **Flow** (tạo ảnh và video từ prompt) | anh bấm, Claude soạn prompt theo khuôn 16:9 / 9:16 |
+| Dựng, ghép, phụ đề, xuất | Claude (script dựng tự động bằng ffmpeg/Python) hoặc CapCut | Claude dựng, anh kiểm |
+
+→ Cả 3 gig đề xuất (Quiz, Người que, Động vật) đều giao được **trọn gói video** với dây chuyền này.
+Khâu tốn tay anh nhất là bấm tạo ở Flow; gig Quiz tốn ít nhất (ảnh nền ít, chủ yếu là chữ và đếm ngược do mã sinh).
